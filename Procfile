@@ -1,1 +1,1 @@
-bot : python main.py
+wed : python main.py
