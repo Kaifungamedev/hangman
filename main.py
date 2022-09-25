@@ -228,4 +228,4 @@ async def hangman(ctx):
 async def on_message(message):
     await client.process_commands(message)
 
-client.run("OTMzODMyNDI3MTgzNDA3MTE0.GtZ9ah.a8mhWDQFl5jUvp05IBrRDOV3wZ2UVPXrR3rDFk")
+client.run("bot token")
